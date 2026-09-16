@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Soft circular eco-blue/green background -->
+    <path
+        android:fillColor="#E6F4EA"
+        android:pathData="M60,60m-52,0a52,52 0,1 1,104 0a52,52 0,1 1,-104 0" />
+
+    <!-- Modern Factory Building Body -->
+    <path
+        android:fillColor="#134E39"
+        android:pathData="M24,54 L52,42 L52,100 L24,100 Z" />
+    <path
+        android:fillColor="#1B4D3E"
+        android:pathData="M52,42 L94,56 L94,100 L52,100 Z" />
+
+    <!-- Sawtooth Eco Plant Roofs -->
+    <path
+        android:fillColor="#2D7D58"
+        android:pathData="M24,54 L38,44 L38,54 L52,42 L52,54 L24,54 Z" />
+
+    <!-- Solar Panels / Eco Roof on right side -->
+    <path
+        android:fillColor="#065F46"
+        android:pathData="M52,42 L72,32 L94,56 L74,66 Z" />
+    <path
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="1"
+        android:pathData="M62,37 L83,61 M57,48 L78,41 M68,54 L89,47" />
+
+    <!-- Facility Windows with clean interior glow -->
+    <path
+        android:fillColor="#6EE7B7"
+        android:pathData="M30,62h6v8h-6z M40,62h6v8h-6z M30,76h6v8h-6z M40,76h6v8h-6z" />
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M62,68h8v10h-8z M76,72h8v10h-8z" />
+
+    <!-- Conveyor System at bottom -->
+    <path
+        android:fillColor="#0F3D2E"
+        android:pathData="M48,90 L100,90 L100,102 L48,102 Z" />
+    <path
+        android:strokeColor="#34D399"
+        android:strokeWidth="1.5"
+        android:pathData="M54,96h8 M68,96h8 M82,96h8 M94,96h4" />
+
+    <!-- High Tech Chip being processed on conveyor -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M60,86h8v6h-8z M74,86h8v6h-8z" />
+
+    <!-- Authorized Badge / Official Shield with Recycling Loop -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M80,24 C80,24 94,18 102,24 C102,36 94,50 80,56 C66,50 58,36 58,24 C66,18 80,24 80,24 Z" />
+    <!-- White Shield border -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M80,26 C80,26 92,20.5 99,25.5 C99,35 92,47 80,52 C68,47 61,35 61,25.5 C68,20.5 80,26 80,26 Z" />
+    <!-- Central checkmark on shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,38 L78,43 L88,32 L85,29 L78,37 L76,35 Z" />
+
+    <!-- Eco smoke plume (clean air leaves) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M32,36 C30,30 36,26 40,28 C42,32 38,38 32,36 Z" />
+</vector>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Soft circular background -->
+    <path
+        android:fillColor="#EBF7EE"
+        android:pathData="M60,60m-52,0a52,52 0,1 1,104 0a52,52 0,1 1,-104 0" />
+
+    <!-- Collection Bag / Bin with recycling mark -->
+    <path
+        android:fillColor="#1B4D3E"
+        android:pathData="M35,68 L40,102 C40.5,105 43,107 46,107 L74,107 C77,107 79.5,105 80,102 L85,68 Z" />
+    <path
+        android:fillColor="#2D7D58"
+        android:pathData="M31,63 L89,63 C91,63 93,65 93,67 L93,68 L27,68 L27,67 C27,65 29,63 31,63 Z" />
+
+    <!-- Recycler badge on collector bag -->
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M56,76 L64,76 L60,82 Z" />
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M66,80 L70,86 L64,86 Z" />
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M54,86 L50,80 L56,80 Z" />
+
+    <!-- Old Smartphone / Electronics coming out of bag -->
+    <!-- Smartphone -->
+    <path
+        android:fillColor="#0F3D2E"
+        android:pathData="M62,36 L78,42 C80,43 81,45 80,47 L74,68 L58,62 C56,61 55,59 56,57 L62,36 Z" />
+    <path
+        android:fillColor="#E2FBE9"
+        android:pathData="M64,40 L76,44 L72,62 L60,58 Z" />
+    <!-- Screen tech lines -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="1.2"
+        android:pathData="M63,45 L73,49 M62,50 L70,53" />
+
+    <!-- Circuit Board PCB -->
+    <path
+        android:fillColor="#047857"
+        android:pathData="M38,44 L54,40 C56,39.5 58,41 58.5,43 L63,61 L47,65 C45,65.5 43,64 42.5,62 L38,44 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M46,47h4v4h-4z" />
+    <!-- PCB solder traces -->
+    <path
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="1"
+        android:pathData="M44,45 L48,45 M48,45 L50,49 M45,55 L53,53" />
+
+    <!-- Collector Safe Hand with Glove -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M24,78 C24,74 28,72 32,73 L42,76 L40,84 L30,83 C26,82.5 24,80.5 24,78 Z" />
+    <path
+        android:fillColor="#1B4D3E"
+        android:pathData="M18,79 C18,76 21,74 24,75 L28,76 L26,85 L22,84 C19.5,83 18,81 18,79 Z" />
+
+    <!-- Cables / Wire loop -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M78,54 C86,52 92,58 90,66 C88,72 82,72 80,70" />
+
+    <!-- Sparkles of sustainable recovery -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M32,32 L34,26 L36,32 L42,34 L36,36 L34,42 L32,36 L26,34 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M84,30 L85.5,25 L87,30 L92,31.5 L87,33 L85.5,38 L84,33 L79,31.5 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "ECOBRIDGES",
+  "description": "AI-powered voice-first E-Waste Management platform ECOBRIDGES with multilingual support for Informal Collectors, Formal Recyclers, and Government Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
